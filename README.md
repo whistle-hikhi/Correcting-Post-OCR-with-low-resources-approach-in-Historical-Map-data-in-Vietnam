@@ -1,2 +1,4 @@
-# VMA-AI-Research
-Some experiments about historical map with VMA (Vietnam Map Archive) Project
+# Correcting Post OCR with low resources approach in Historical Map data in Vietnam
+
+
+
