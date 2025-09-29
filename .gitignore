@@ -1,0 +1,3 @@
+**/unsloth_compiled_cache/
+**/grpo_model/labels/adapter_model.safetensors
+**/grpo_model/bboxes/adapter_model.safetensors
