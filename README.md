@@ -196,8 +196,8 @@ If you use this pipeline in your research, please cite:
 ```bibtex
 @software{ocr_post_ocr_pipeline,
   title={OCR and Post-OCR Pipeline for Historical Map Data Processing},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-repo/ocr-post-ocr-pipeline}
+  author={Nguyen Huy Hung},
+  year={2025},
+  url={https://github.com/whistle-hikhi/Correcting-Post-OCR-with-low-resources-approach-in-Historical-Map-data-in-Vietnam}
 }
 ```
