@@ -29,6 +29,9 @@ pip install -r requirements.txt
 ```
 
 2. Ensure you have the LoRA models in the correct location:
+
+LoRa models can get from this notebooks version 8 (labels) and 10 (bboxes): [Kaggle Notebook](https://www.kaggle.com/code/hngnguynhuy/grpo-map-name)
+
 ```
 src/post_ocr_module/grpo_model/
 ├── bboxes/
